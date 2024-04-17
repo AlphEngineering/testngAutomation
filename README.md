@@ -1,2 +1,2 @@
 #  testNG Automation
-Java | Maven | Selenium | TestNG |
+Java | Maven | Selenium | TestNG
